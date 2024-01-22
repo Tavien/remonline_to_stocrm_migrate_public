@@ -1,0 +1,3 @@
+module.exports = {
+    WARHOUSE_ACCESS_DENIED: 40310623451,
+}
